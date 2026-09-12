@@ -37,6 +37,38 @@ it starts with Windows. That's the whole setup.
 
 ---
 
+## What's new in 2.2
+
+The biggest update yet — your pet has a life of its own now, and somewhere to
+put it.
+
+- **Coins, a shop and a room.** Earn coins by caring for your pet, then spend
+  them on furniture and decorations for a little room it retreats into — or
+  try the mystery egg. There is no way to buy coins with real money.
+- **Three daily quests**, fresh every midnight, and **six seasonal events** a
+  year with cosmetics that only exist while they run.
+- **It grows up.** Five visible growth stages between level 1 and 26 — on
+  imported characters too.
+- **Its personality drifts** toward how you actually treat it, and it learns
+  your hours so it sleeps on your clock.
+- **Hygiene and sickness.** Baths and medicine join feeding and play. It
+  dreams about your day while it sleeps.
+- **Outfits and a collection.** Layered outfits, a collection album showing
+  what you've found and what you haven't, and any accent colour you like.
+- **It notices what you're doing** — the app in front, music playing — and
+  gets on with its own things while you work.
+- **Several pets per account**, plus an optional public profile and
+  leaderboard, both off by default.
+- **Tidier.** Your pet's files now live in your Windows user folder, so the
+  `.exe` can sit in Downloads on its own. Upgrading moves your pet across.
+- **Fixed:** sitting on windows, the last cloud save when you quit, and update
+  notifications.
+
+**Upgrading from 2.1:** download the new `.exe`, replace the old one, and run
+it. Your pet, level and settings come with you.
+
+---
+
 ## Why people keep it running
 
 A desktop pet is usually a toy you forget about in a day. This one is built
@@ -134,8 +166,7 @@ frames plus a `config.json`, zipped — see
 
 You never need to sign in to use Desktop Pet. If you do, your pet's name,
 level, XP, achievements and settings follow you to another machine and
-survive a reinstall. That's it — no payment, no telemetry, no AI tracking
-your usage. The update checker asks GitHub once a day whether a newer
+survive a reinstall. That's it — no payment and no telemetry. The update checker asks GitHub once a day whether a newer
 release exists; it can be switched off.
 
 <p align="center">
@@ -186,7 +217,7 @@ button above and the in-app update checker both point at them.
 ## Reporting a problem
 
 Open an [issue](../../issues), or email
-[Support@desktop-pet.online](mailto:Support@desktop-pet.online). Useful
+[support@desktop-pet.online](mailto:support@desktop-pet.online). Useful
 details: your Windows version, what the pet was doing, and whether it
 happens every time.
 
